@@ -1,0 +1,6 @@
+=========================== Boot Loader ===================================
+a program that loads an OS in memory
+===========================GRUB=========================================
+GRUB (GRand Unified Bootloader) is a boot loader package developed to support 
+multiple operating systems and allow the user to select among them during boot-up. 
+http://www.thegeekstuff.com/2011/02/linux-boot-process/
